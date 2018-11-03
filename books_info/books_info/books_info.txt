@@ -1,0 +1,1000 @@
+{"name": "A Light in the Attic", "price": "\uffe5464.69"}
+{"name": "Tipping the Velvet", "price": "\uffe5482.38"}
+{"name": "Soumission", "price": "\uffe5449.70"}
+{"name": "Sharp Objects", "price": "\uffe5429.24"}
+{"name": "Sapiens: A Brief History of Humankind", "price": "\uffe5486.77"}
+{"name": "The Requiem Red", "price": "\uffe5203.31"}
+{"name": "The Dirty Little Secrets of Getting Your Dream Job", "price": "\uffe5299.26"}
+{"name": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull", "price": "\uffe5160.94"}
+{"name": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics", "price": "\uffe5202.86"}
+{"name": "The Black Maria", "price": "\uffe5468.10"}
+{"name": "Starving Hearts (Triangular Trade Trilogy, #1)", "price": "\uffe5125.58"}
+{"name": "Shakespeare's Sonnets", "price": "\uffe5185.45"}
+{"name": "Set Me Free", "price": "\uffe5156.72"}
+{"name": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)", "price": "\uffe5469.36"}
+{"name": "Rip it Up and Start Again", "price": "\uffe5314.34"}
+{"name": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991", "price": "\uffe5513.88"}
+{"name": "Olio", "price": "\uffe5214.35"}
+{"name": "Mesaerion: The Best Science Fiction Stories 1800-1849", "price": "\uffe5337.41"}
+{"name": "Libertarianism for Beginners", "price": "\uffe5460.74"}
+{"name": "It's Only the Himalayas", "price": "\uffe5405.45"}
+{"name": "In Her Wake", "price": "\uffe5115.25"}
+{"name": "How Music Works", "price": "\uffe5334.99"}
+{"name": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More", "price": "\uffe5273.95"}
+{"name": "Chase Me (Paris Nights #2)", "price": "\uffe5226.83"}
+{"name": "Black Dust", "price": "\uffe5309.94"}
+{"name": "Birdsong: A Story in Pictures", "price": "\uffe5490.45"}
+{"name": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana", "price": "\uffe5201.96"}
+{"name": "Aladdin and His Wonderful Lamp", "price": "\uffe5476.90"}
+{"name": "Worlds Elsewhere: Journeys Around Shakespeare\u2019s Globe", "price": "\uffe5361.74"}
+{"name": "Wall and Piece", "price": "\uffe5396.56"}
+{"name": "The Four Agreements: A Practical Guide to Personal Freedom", "price": "\uffe5158.52"}
+{"name": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate", "price": "\uffe5278.71"}
+{"name": "The Elephant Tree", "price": "\uffe5213.81"}
+{"name": "The Bear and the Piano", "price": "\uffe5331.13"}
+{"name": "Sophie's World", "price": "\uffe5143.08"}
+{"name": "Penny Maybe", "price": "\uffe5298.81"}
+{"name": "Maude (1883-1993):She Grew Up with the country", "price": "\uffe5161.75"}
+{"name": "In a Dark, Dark Wood", "price": "\uffe5176.20"}
+{"name": "Behind Closed Doors", "price": "\uffe5468.73"}
+{"name": "You can't bury them all: Poems", "price": "\uffe5301.87"}
+{"name": "Slow States of Collapse: Poems", "price": "\uffe5514.42"}
+{"name": "Reasons to Stay Alive", "price": "\uffe5237.06"}
+{"name": "Private Paris (Private #10)", "price": "\uffe5427.35"}
+{"name": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.", "price": "\uffe5207.44"}
+{"name": "Without Borders (Wanderlove #1)", "price": "\uffe5404.55"}
+{"name": "When We Collided", "price": "\uffe5285.17"}
+{"name": "We Love You, Charlie Freeman", "price": "\uffe5451.23"}
+{"name": "Untitled Collection: Sabbath Poems 2014", "price": "\uffe5128.09"}
+{"name": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness", "price": "\uffe5396.56"}
+{"name": "Unicorn Tracks", "price": "\uffe5168.57"}
+{"name": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink", "price": "\uffe5229.07"}
+{"name": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)", "price": "\uffe5146.13"}
+{"name": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity", "price": "\uffe5279.34"}
+{"name": "This One Summer", "price": "\uffe5174.94"}
+{"name": "Thirst", "price": "\uffe5155.02"}
+{"name": "The Torch Is Passed: A Harding Family Story", "price": "\uffe5171.35"}
+{"name": "The Secret of Dreadwillow Carse", "price": "\uffe5503.83"}
+{"name": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!", "price": "\uffe5506.34"}
+{"name": "The Past Never Ends", "price": "\uffe5507.15"}
+{"name": "The Natural History of Us (The Fine Art of Pretending #2)", "price": "\uffe5405.90"}
+{"name": "The Nameless City (The Nameless City #1)", "price": "\uffe5342.53"}
+{"name": "The Murder That Never Was (Forensic Instincts #5)", "price": "\uffe5485.70"}
+{"name": "The Most Perfect Thing: Inside (and Outside) a Bird's Egg", "price": "\uffe5385.61"}
+{"name": "The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy", "price": "\uffe5214.44"}
+{"name": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing", "price": "\uffe5150.53"}
+{"name": "The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer", "price": "\uffe5184.82"}
+{"name": "The Gutsy Girl: Escapades for Your Life of Epic Adventure", "price": "\uffe5333.28"}
+{"name": "The Electric Pencil: Drawings from Inside State Hospital No. 3", "price": "\uffe5503.20"}
+{"name": "The Death of Humanity: and the Case for Life", "price": "\uffe5521.60"}
+{"name": "The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life", "price": "\uffe5440.28"}
+{"name": "The Art Forger", "price": "\uffe5365.87"}
+{"name": "The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind", "price": "\uffe5177.10"}
+{"name": "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution", "price": "\uffe5289.39"}
+{"name": "Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up", "price": "\uffe5375.47"}
+{"name": "Soul Reader", "price": "\uffe5355.27"}
+{"name": "Security", "price": "\uffe5352.31"}
+{"name": "Saga, Volume 6 (Saga (Collected Editions) #6)", "price": "\uffe5224.58"}
+{"name": "Saga, Volume 5 (Saga (Collected Editions) #5)", "price": "\uffe5458.14"}
+{"name": "Reskilling America: Learning to Labor in the Twenty-First Century", "price": "\uffe5178.00"}
+{"name": "Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)", "price": "\uffe5452.40"}
+{"name": "Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)", "price": "\uffe5122.16"}
+{"name": "Princess Between Worlds (Wide-Awake Princess #5)", "price": "\uffe5119.74"}
+{"name": "Pop Gun War, Volume 1: Gift", "price": "\uffe5170.28"}
+{"name": "Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics", "price": "\uffe5325.65"}
+{"name": "Patience", "price": "\uffe591.20"}
+{"name": "Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)", "price": "\uffe5138.59"}
+{"name": "orange: The Complete Collection 1 (orange: The Complete Collection #1)", "price": "\uffe5434.53"}
+{"name": "Online Marketing for Busy Authors: A Step-By-Step Guide", "price": "\uffe5416.04"}
+{"name": "On a Midnight Clear", "price": "\uffe5126.29"}
+{"name": "Obsidian (Lux #1)", "price": "\uffe5133.38"}
+{"name": "My Paris Kitchen: Recipes and Stories", "price": "\uffe5299.53"}
+{"name": "Masks and Shadows", "price": "\uffe5506.25"}
+{"name": "Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed", "price": "\uffe5125.84"}
+{"name": "Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)", "price": "\uffe5421.07"}
+{"name": "Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)", "price": "\uffe5409.40"}
+{"name": "Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)", "price": "\uffe5178.80"}
+{"name": "Layered: Baking, Building, and Styling Spectacular Cakes", "price": "\uffe5360.03"}
+{"name": "Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)", "price": "\uffe5483.81"}
+{"name": "Join", "price": "\uffe5320.18"}
+{"name": "In the Country We Love: My Family Divided", "price": "\uffe5197.47"}
+{"name": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine", "price": "\uffe5514.87"}
+{"name": "I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)", "price": "\uffe5261.83"}
+{"name": "I am a Hero Omnibus Volume 1", "price": "\uffe5490.36"}
+{"name": "How to Be Miserable: 40 Strategies You Already Use", "price": "\uffe5413.17"}
+{"name": "Her Backup Boyfriend (The Sorensen Family #1)", "price": "\uffe5304.92"}
+{"name": "Giant Days, Vol. 2 (Giant Days #5-8)", "price": "\uffe5198.46"}
+{"name": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton", "price": "\uffe5266.50"}
+{"name": "First and First (Five Boroughs #3)", "price": "\uffe5143.35"}
+{"name": "Fifty Shades Darker (Fifty Shades #2)", "price": "\uffe5197.12"}
+{"name": "Everydata: The Misinformation Hidden in the Little Data You Consume Every Day", "price": "\uffe5487.85"}
+{"name": "Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master", "price": "\uffe5340.82"}
+{"name": "Danganronpa Volume 1", "price": "\uffe5466.67"}
+{"name": "Crown of Midnight (Throne of Glass #2)", "price": "\uffe5388.58"}
+{"name": "Codename Baboushka, Volume 1: The Conclave of Death", "price": "\uffe5329.60"}
+{"name": "Camp Midnight", "price": "\uffe5153.31"}
+{"name": "Call the Nurse: True Stories of a Country Nurse on a Scottish Isle", "price": "\uffe5261.56"}
+{"name": "Burning", "price": "\uffe5258.60"}
+{"name": "Bossypants", "price": "\uffe5443.96"}
+{"name": "Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))", "price": "\uffe5340.37"}
+{"name": "Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)", "price": "\uffe5252.14"}
+{"name": "Algorithms to Live By: The Computer Science of Human Decisions", "price": "\uffe5276.55"}
+{"name": "A World of Flavor: Your Gluten Free Passport", "price": "\uffe5385.52"}
+{"name": "A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations", "price": "\uffe5509.48"}
+{"name": "A Murder in Time", "price": "\uffe5149.36"}
+{"name": "A Flight of Arrows (The Pathfinders #2)", "price": "\uffe5498.44"}
+{"name": "A Fierce and Subtle Poison", "price": "\uffe5252.50"}
+{"name": "A Court of Thorns and Roses (A Court of Thorns and Roses #1)", "price": "\uffe5470.08"}
+{"name": "(Un)Qualified: How God Uses Broken People to Do Big Things", "price": "\uffe5484.71"}
+{"name": "You Are What You Love: The Spiritual Power of Habit", "price": "\uffe5196.31"}
+{"name": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)", "price": "\uffe5388.67"}
+{"name": "Tuesday Nights in 1980", "price": "\uffe5188.86"}
+{"name": "Tracing Numbers on a Train", "price": "\uffe5373.41"}
+{"name": "Throne of Glass (Throne of Glass #1)", "price": "\uffe5314.79"}
+{"name": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History", "price": "\uffe5535.33"}
+{"name": "Thirteen Reasons Why", "price": "\uffe5473.22"}
+{"name": "The White Cat and the Monk: A Retelling of the Poem \u201cPangur B\u00e1n\u201d", "price": "\uffe5521.33"}
+{"name": "The Wedding Dress", "price": "\uffe5216.50"}
+{"name": "The Vacationers", "price": "\uffe5378.34"}
+{"name": "The Third Wave: An Entrepreneur\u2019s Vision of the Future", "price": "\uffe5113.19"}
+{"name": "The Stranger", "price": "\uffe5156.54"}
+{"name": "The Shadow Hero (The Shadow Hero)", "price": "\uffe5297.47"}
+{"name": "The Secret (The Secret #1)", "price": "\uffe5245.68"}
+{"name": "The Regional Office Is Under Attack!", "price": "\uffe5461.01"}
+{"name": "The Psychopath Test: A Journey Through the Madness Industry", "price": "\uffe5323.14"}
+{"name": "The Project", "price": "\uffe595.60"}
+{"name": "The Power of Now: A Guide to Spiritual Enlightenment", "price": "\uffe5390.82"}
+{"name": "The Omnivore's Dilemma: A Natural History of Four Meals", "price": "\uffe5342.98"}
+{"name": "The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us", "price": "\uffe5335.17"}
+{"name": "The Murder of Roger Ackroyd (Hercule Poirot #4)", "price": "\uffe5395.85"}
+{"name": "The Mistake (Off-Campus #2)", "price": "\uffe5388.58"}
+{"name": "The Matchmaker's Playbook (Wingmen Inc. #1)", "price": "\uffe5501.32"}
+{"name": "The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking", "price": "\uffe5337.50"}
+{"name": "The Long Shadow of Small Ghosts: Murder and Memory in an American City", "price": "\uffe598.47"}
+{"name": "The Kite Runner", "price": "\uffe5375.38"}
+{"name": "The House by the Lake", "price": "\uffe5331.67"}
+{"name": "The Glittering Court (The Glittering Court #1)", "price": "\uffe5397.46"}
+{"name": "The Girl on the Train", "price": "\uffe5493.87"}
+{"name": "The Genius of Birds", "price": "\uffe5154.75"}
+{"name": "The Emerald Mystery", "price": "\uffe5207.80"}
+{"name": "The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First", "price": "\uffe5370.26"}
+{"name": "The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.", "price": "\uffe5287.24"}
+{"name": "The Artist's Way: A Spiritual Path to Higher Creativity", "price": "\uffe5345.49"}
+{"name": "The Art of War", "price": "\uffe5299.26"}
+{"name": "The Argonauts", "price": "\uffe598.11"}
+{"name": "The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job", "price": "\uffe5247.29"}
+{"name": "Suddenly in Love (Lake Haven #1)", "price": "\uffe5502.57"}
+{"name": "Something More Than This", "price": "\uffe5145.77"}
+{"name": "Soft Apocalypse", "price": "\uffe5234.46"}
+{"name": "So You've Been Publicly Shamed", "price": "\uffe5109.78"}
+{"name": "Shoe Dog: A Memoir by the Creator of NIKE", "price": "\uffe5215.34"}
+{"name": "Shobu Samurai, Project Aryoku (#3)", "price": "\uffe5260.85"}
+{"name": "Secrets and Lace (Fatal Hearts #1)", "price": "\uffe5181.95"}
+{"name": "Scarlett Epstein Hates It Here", "price": "\uffe5390.91"}
+{"name": "Romero and Juliet: A Tragic Tale of Love and Zombies", "price": "\uffe5331.58"}
+{"name": "Redeeming Love", "price": "\uffe5183.74"}
+{"name": "Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form", "price": "\uffe5368.56"}
+{"name": "Poems That Make Grown Women Cry", "price": "\uffe5127.37"}
+{"name": "Nightingale, Sing", "price": "\uffe5343.61"}
+{"name": "Night Sky with Exit Wounds", "price": "\uffe5368.47"}
+{"name": "Mrs. Houdini", "price": "\uffe5271.53"}
+{"name": "Modern Romance", "price": "\uffe5253.66"}
+{"name": "Miss Peregrine\u2019s Home for Peculiar Children (Miss Peregrine\u2019s Peculiar Children #1)", "price": "\uffe596.58"}
+{"name": "Louisa: The Extraordinary Life of Mrs. Adams", "price": "\uffe5151.25"}
+{"name": "Little Red", "price": "\uffe5120.91"}
+{"name": "Library of Souls (Miss Peregrine\u2019s Peculiar Children #3)", "price": "\uffe5435.88"}
+{"name": "Large Print Heart of the Pride", "price": "\uffe5171.89"}
+{"name": "I Had a Nice Time And Other Lies...: How to find love & sh*t like that", "price": "\uffe5514.87"}
+{"name": "Hollow City (Miss Peregrine\u2019s Peculiar Children #2)", "price": "\uffe5385.79"}
+{"name": "Grumbles", "price": "\uffe5198.91"}
+{"name": "Full Moon over Noah\u2019s Ark: An Odyssey to Mount Ararat and Beyond", "price": "\uffe5443.69"}
+{"name": "Frostbite (Vampire Academy #2)", "price": "\uffe5269.19"}
+{"name": "Follow You Home", "price": "\uffe5191.73"}
+{"name": "First Steps for New Christians (Print Edition)", "price": "\uffe5260.31"}
+{"name": "Finders Keepers (Bill Hodges Trilogy #2)", "price": "\uffe5480.49"}
+{"name": "Fables, Vol. 1: Legends in Exile (Fables #1)", "price": "\uffe5373.59"}
+{"name": "Eureka Trivia 6.0", "price": "\uffe5490.01"}
+{"name": "Drive: The Surprising Truth About What Motivates Us", "price": "\uffe5313.71"}
+{"name": "Done Rubbed Out (Reightman & Bailey #1)", "price": "\uffe5338.58"}
+{"name": "Doing It Over (Most Likely To #1)", "price": "\uffe5319.64"}
+{"name": "Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals", "price": "\uffe5378.43"}
+{"name": "Dark Notes", "price": "\uffe5172.25"}
+{"name": "Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead", "price": "\uffe5174.41"}
+{"name": "Close to You", "price": "\uffe5443.96"}
+{"name": "Chasing Heaven: What Dying Taught Me About Living", "price": "\uffe5339.30"}
+{"name": "Big Magic: Creative Living Beyond Fear", "price": "\uffe5276.46"}
+{"name": "Becoming Wise: An Inquiry into the Mystery and Art of Living", "price": "\uffe5246.21"}
+{"name": "Beauty Restored (Riley Family Legacy Novellas #3)", "price": "\uffe599.72"}
+{"name": "Batman: The Long Halloween (Batman)", "price": "\uffe5327.63"}
+{"name": "Batman: The Dark Knight Returns (Batman)", "price": "\uffe5138.05"}
+{"name": "Ayumi's Violin", "price": "\uffe5138.95"}
+{"name": "Anonymous", "price": "\uffe5420.26"}
+{"name": "Amy Meets the Saints and Sages", "price": "\uffe5165.70"}
+{"name": "Amid the Chaos", "price": "\uffe5328.35"}
+{"name": "Amatus", "price": "\uffe5453.65"}
+{"name": "Agnostic: A Spirited Manifesto", "price": "\uffe5112.29"}
+{"name": "Zealot: The Life and Times of Jesus of Nazareth", "price": "\uffe5221.71"}
+{"name": "You (You #1)", "price": "\uffe5391.45"}
+{"name": "Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)", "price": "\uffe5335.17"}
+{"name": "Wild Swans", "price": "\uffe5128.90"}
+{"name": "Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond", "price": "\uffe5472.59"}
+{"name": "Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity", "price": "\uffe5342.89"}
+{"name": "What's It Like in Space?: Stories from Astronauts Who've Been There", "price": "\uffe5175.93"}
+{"name": "We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)", "price": "\uffe5483.81"}
+{"name": "Walt Disney's Alice in Wonderland", "price": "\uffe5116.33"}
+{"name": "V for Vendetta (V for Vendetta Complete)", "price": "\uffe5333.01"}
+{"name": "Until Friday Night (The Field Party #1)", "price": "\uffe5415.68"}
+{"name": "Unbroken: A World War II Story of Survival, Resilience, and Redemption", "price": "\uffe5412.45"}
+{"name": "Twenty Yawns", "price": "\uffe5198.19"}
+{"name": "Through the Woods", "price": "\uffe5227.81"}
+{"name": "This Is Where It Ends", "price": "\uffe5243.43"}
+{"name": "The Year of Magical Thinking", "price": "\uffe5386.33"}
+{"name": "The Wright Brothers", "price": "\uffe5509.84"}
+{"name": "The White Queen (The Cousins' War #1)", "price": "\uffe5232.57"}
+{"name": "The Wedding Pact (The O'Malleys #2)", "price": "\uffe5292.71"}
+{"name": "The Time Keeper", "price": "\uffe5250.25"}
+{"name": "The Testament of Mary", "price": "\uffe5472.77"}
+{"name": "The Star-Touched Queen", "price": "\uffe5413.08"}
+{"name": "The Songs of the Gods", "price": "\uffe5399.26"}
+{"name": "The Song of Achilles", "price": "\uffe5335.71"}
+{"name": "The Rosie Project (Don Tillman #1)", "price": "\uffe5485.07"}
+{"name": "The Power of Habit: Why We Do What We Do in Life and Business", "price": "\uffe5151.52"}
+{"name": "The Marriage of Opposites", "price": "\uffe5252.05"}
+{"name": "The Lucifer Effect: Understanding How Good People Turn Evil", "price": "\uffe593.35"}
+{"name": "The Long Haul (Diary of a Wimpy Kid #9)", "price": "\uffe5395.58"}
+{"name": "The Loney", "price": "\uffe5210.04"}
+{"name": "The Literature Book (Big Ideas Simply Explained)", "price": "\uffe5156.45"}
+{"name": "The Last Mile (Amos Decker #2)", "price": "\uffe5486.59"}
+{"name": "The Immortal Life of Henrietta Lacks", "price": "\uffe5365.06"}
+{"name": "The Hidden Oracle (The Trials of Apollo #1)", "price": "\uffe5469.09"}
+{"name": "The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth", "price": "\uffe5258.24"}
+{"name": "The Guilty (Will Robie #4)", "price": "\uffe5124.05"}
+{"name": "The First Hostage (J.B. Collins #2)", "price": "\uffe5232.03"}
+{"name": "The Dovekeepers", "price": "\uffe5437.85"}
+{"name": "The Darkest Lie", "price": "\uffe5317.31"}
+{"name": "The Bane Chronicles (The Bane Chronicles #1-11)", "price": "\uffe5401.50"}
+{"name": "The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World\u2019s Most Precious Manuscripts", "price": "\uffe5141.55"}
+{"name": "The 14th Colony (Cotton Malone #11)", "price": "\uffe5352.22"}
+{"name": "That Darkness (Gardiner and Renner #1)", "price": "\uffe5124.95"}
+{"name": "Tastes Like Fear (DI Marnie Rome #3)", "price": "\uffe595.95"}
+{"name": "Take Me with You", "price": "\uffe5405.81"}
+{"name": "Swell: A Year of Waves", "price": "\uffe5409.13"}
+{"name": "Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)", "price": "\uffe5106.73"}
+{"name": "Still Life with Bread Crumbs", "price": "\uffe5237.06"}
+{"name": "Steve Jobs", "price": "\uffe5354.56"}
+{"name": "Sorting the Beef from the Bull: The Science of Food Fraud Forensics", "price": "\uffe5401.59"}
+{"name": "Someone Like You (The Harrisons #2)", "price": "\uffe5473.85"}
+{"name": "So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)", "price": "\uffe5318.02"}
+{"name": "Shtum", "price": "\uffe5501.23"}
+{"name": "See America: A Celebration of Our National Parks & Treasured Sites", "price": "\uffe5438.66"}
+{"name": "salt.", "price": "\uffe5419.90"}
+{"name": "Robin War", "price": "\uffe5429.24"}
+{"name": "Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)", "price": "\uffe5228.71"}
+{"name": "Rain Fish", "price": "\uffe5211.57"}
+{"name": "Quarter Life Poetry: Poems for the Young, Broke and Hangry", "price": "\uffe5456.79"}
+{"name": "Pet Sematary", "price": "\uffe594.79"}
+{"name": "Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress", "price": "\uffe5468.10"}
+{"name": "Once Was a Time", "price": "\uffe5164.08"}
+{"name": "Old School (Diary of a Wimpy Kid #10)", "price": "\uffe5106.19"}
+{"name": "No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon", "price": "\uffe5197.03"}
+{"name": "Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)", "price": "\uffe5344.59"}
+{"name": "My Name Is Lucy Barton", "price": "\uffe5373.05"}
+{"name": "My Mrs. Brown", "price": "\uffe5219.73"}
+{"name": "My Kind of Crazy", "price": "\uffe5362.28"}
+{"name": "Mr. Mercedes (Bill Hodges Trilogy #1)", "price": "\uffe5259.41"}
+{"name": "More Than Music (Chasing the Dream #1)", "price": "\uffe5337.59"}
+{"name": "Made to Stick: Why Some Ideas Survive and Others Die", "price": "\uffe5348.72"}
+{"name": "Luis Paints the World", "price": "\uffe5484.26"}
+{"name": "Luckiest Girl Alive", "price": "\uffe5447.28"}
+{"name": "Lowriders to the Center of the Earth (Lowriders in Space #2)", "price": "\uffe5462.36"}
+{"name": "Love Is a Mix Tape (Music #1)", "price": "\uffe5161.84"}
+{"name": "Looking for Lovely: Collecting the Moments that Matter", "price": "\uffe5261.56"}
+{"name": "Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments", "price": "\uffe5421.07"}
+{"name": "Let It Out: A Journey Through Journaling", "price": "\uffe5240.47"}
+{"name": "Lady Midnight (The Dark Artifices #1)", "price": "\uffe5146.13"}
+{"name": "It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes", "price": "\uffe5175.48"}
+{"name": "Island of Dragons (Unwanteds #7)", "price": "\uffe5266.14"}
+{"name": "I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction", "price": "\uffe5233.20"}
+{"name": "I Am Pilgrim (Pilgrim #1)", "price": "\uffe595.15"}
+{"name": "Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened", "price": "\uffe5132.40"}
+{"name": "Hush, Hush (Hush, Hush #1)", "price": "\uffe5422.06"}
+{"name": "Hold Your Breath (Search and Rescue #1)", "price": "\uffe5258.69"}
+{"name": "Hamilton: The Revolution", "price": "\uffe5527.70"}
+{"name": "Greek Mythic History", "price": "\uffe591.83"}
+{"name": "God: The Most Unpleasant Character in All Fiction", "price": "\uffe5269.55"}
+{"name": "Glory over Everything: Beyond The Kitchen House", "price": "\uffe5411.46"}
+{"name": "Feathers: Displays of Brilliant Plumage", "price": "\uffe5440.28"}
+{"name": "Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years", "price": "\uffe5135.18"}
+{"name": "Every Last Word", "price": "\uffe5417.12"}
+{"name": "Eligible (The Austen Project #4)", "price": "\uffe5243.16"}
+{"name": "El Deafo", "price": "\uffe5517.20"}
+{"name": "Eight Hundred Grapes", "price": "\uffe5129.17"}
+{"name": "Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life", "price": "\uffe5464.51"}
+{"name": "Eat Fat, Get Thin", "price": "\uffe5485.34"}
+{"name": "Don't Get Caught", "price": "\uffe5496.83"}
+{"name": "Doctor Sleep (The Shining #2)", "price": "\uffe5360.12"}
+{"name": "Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3)", "price": "\uffe5336.69"}
+{"name": "Dear Mr. Knightley", "price": "\uffe5100.62"}
+{"name": "Daily Fantasy Sports", "price": "\uffe5328.35"}
+{"name": "Crazy Love: Overwhelmed by a Relentless God", "price": "\uffe5428.34"}
+{"name": "Cometh the Hour (The Clifton Chronicles #6)", "price": "\uffe5224.49"}
+{"name": "Code Name Verity (Code Name Verity #1)", "price": "\uffe5198.64"}
+{"name": "Clockwork Angel (The Infernal Devices #1)", "price": "\uffe5396.21"}
+{"name": "City of Glass (The Mortal Instruments #3)", "price": "\uffe5502.84"}
+{"name": "City of Fallen Angels (The Mortal Instruments #4)", "price": "\uffe5100.80"}
+{"name": "City of Bones (The Mortal Instruments #1)", "price": "\uffe5388.49"}
+{"name": "City of Ashes (The Mortal Instruments #2)", "price": "\uffe5424.30"}
+{"name": "Cell", "price": "\uffe5182.13"}
+{"name": "Catching Jordan (Hundred Oaks)", "price": "\uffe5456.26"}
+{"name": "Carry On, Warrior: Thoughts on Life Unarmed", "price": "\uffe5285.89"}
+{"name": "Carrie", "price": "\uffe5414.97"}
+{"name": "Buying In: The Secret Dialogue Between What We Buy and Who We Are", "price": "\uffe5339.30"}
+{"name": "Brain on Fire: My Month of Madness", "price": "\uffe5442.70"}
+{"name": "Batman: Europa", "price": "\uffe5287.32"}
+{"name": "Barefoot Contessa Back to Basics", "price": "\uffe5251.42"}
+{"name": "Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again", "price": "\uffe5454.37"}
+{"name": "Balloon Animals", "price": "\uffe5152.86"}
+{"name": "Art Ops Vol. 1", "price": "\uffe5438.03"}
+{"name": "Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)", "price": "\uffe5521.87"}
+{"name": "Angels Walking (Angels Walking #1)", "price": "\uffe5306.98"}
+{"name": "Angels & Demons (Robert Langdon #1)", "price": "\uffe5462.09"}
+{"name": "All the Light We Cannot See", "price": "\uffe5268.12"}
+{"name": "Adulthood Is a Myth: A \"Sarah's Scribbles\" Collection", "price": "\uffe597.84"}
+{"name": "Abstract City", "price": "\uffe5505.98"}
+{"name": "A Time of Torment (Charlie Parker #14)", "price": "\uffe5433.99"}
+{"name": "A Study in Scarlet (Sherlock Holmes #1)", "price": "\uffe5150.17"}
+{"name": "A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer", "price": "\uffe5506.97"}
+{"name": "A People's History of the United States", "price": "\uffe5366.14"}
+{"name": "A Man Called Ove", "price": "\uffe5356.53"}
+{"name": "A Distant Mirror: The Calamitous 14th Century", "price": "\uffe5130.87"}
+{"name": "A Brush of Wings (Angels Walking #3)", "price": "\uffe5498.26"}
+{"name": "1491: New Revelations of the Americas Before Columbus", "price": "\uffe5195.68"}
+{"name": "The Three Searches, Meaning, and the Story", "price": "\uffe5119.65"}
+{"name": "Searching for Meaning in Gailana", "price": "\uffe5347.64"}
+{"name": "Rook", "price": "\uffe5339.84"}
+{"name": "My Kitchen Year: 136 Recipes That Saved My Life", "price": "\uffe5103.49"}
+{"name": "13 Hours: The Inside Account of What Really Happened In Benghazi", "price": "\uffe5242.89"}
+{"name": "Will You Won't You Want Me?", "price": "\uffe5124.41"}
+{"name": "Tipping Point for Planet Earth: How Close Are We to the Edge?", "price": "\uffe5337.05"}
+{"name": "The Star-Touched Queen", "price": "\uffe5289.93"}
+{"name": "The Silent Sister (Riley MacPherson #1)", "price": "\uffe5415.50"}
+{"name": "The Midnight Watch: A Novel of the Titanic and the Californian", "price": "\uffe5235.17"}
+{"name": "The Lonely City: Adventures in the Art of Being Alone", "price": "\uffe5298.55"}
+{"name": "The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore", "price": "\uffe5530.94"}
+{"name": "The Golden Condom: And Other Essays on Love Lost and Found", "price": "\uffe5353.93"}
+{"name": "The Epidemic (The Program 0.6)", "price": "\uffe5129.61"}
+{"name": "The Dinner Party", "price": "\uffe5507.51"}
+{"name": "The Diary of a Young Girl", "price": "\uffe5537.67"}
+{"name": "The Children", "price": "\uffe5106.64"}
+{"name": "Stars Above (The Lunar Chronicles #4.5)", "price": "\uffe5431.30"}
+{"name": "Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas", "price": "\uffe5190.38"}
+{"name": "Raspberry Pi Electronics Projects for the Evil Genius", "price": "\uffe5445.84"}
+{"name": "Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two", "price": "\uffe5387.23"}
+{"name": "Psycho: Sanitarium (Psycho #1.5)", "price": "\uffe5331.85"}
+{"name": "Poisonous (Max Revere Novels #3)", "price": "\uffe5240.56"}
+{"name": "One with You (Crossfire #5)", "price": "\uffe5141.01"}
+{"name": "No Love Allowed (Dodge Cove #1)", "price": "\uffe5490.54"}
+{"name": "Murder at the 42nd Street Library (Raymond Ambler #1)", "price": "\uffe5487.94"}
+{"name": "Most Wanted", "price": "\uffe5316.68"}
+{"name": "Love, Lies and Spies", "price": "\uffe5184.46"}
+{"name": "How to Speak Golf: An Illustrated Guide to Links Lingo", "price": "\uffe5523.49"}
+{"name": "Hide Away (Eve Duncan #20)", "price": "\uffe5106.28"}
+{"name": "Furiously Happy: A Funny Book About Horrible Things", "price": "\uffe5372.15"}
+{"name": "Everyday Italian: 125 Simple and Delicious Recipes", "price": "\uffe5180.42"}
+{"name": "Equal Is Unfair: America's Misguided Fight Against Income Inequality", "price": "\uffe5510.38"}
+{"name": "Eleanor & Park", "price": "\uffe5507.24"}
+{"name": "Dirty (Dive Bar #1)", "price": "\uffe5366.49"}
+{"name": "Can You Keep a Secret? (Fear Street Relaunch #4)", "price": "\uffe5436.60"}
+{"name": "Boar Island (Anna Pigeon #19)", "price": "\uffe5533.90"}
+{"name": "A Paris Apartment", "price": "\uffe5350.16"}
+{"name": "A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More", "price": "\uffe5348.00"}
+{"name": "Troublemaker: Surviving Hollywood and Scientology", "price": "\uffe5434.35"}
+{"name": "The Widow", "price": "\uffe5244.69"}
+{"name": "The Sleep Revolution: Transforming Your Life, One Night at a Time", "price": "\uffe5104.84"}
+{"name": "The Improbability of Love", "price": "\uffe5533.63"}
+{"name": "The Art of Startup Fundraising", "price": "\uffe5188.50"}
+{"name": "Take Me Home Tonight (Rock Star Romance #3)", "price": "\uffe5484.53"}
+{"name": "Sleeping Giants (Themis Files #1)", "price": "\uffe5437.50"}
+{"name": "Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena", "price": "\uffe5189.84"}
+{"name": "Playing with Fire", "price": "\uffe5123.06"}
+{"name": "Off the Hook (Fishing for Trouble #1)", "price": "\uffe5427.89"}
+{"name": "Mothering Sunday", "price": "\uffe5119.74"}
+{"name": "Mother, Can You Not?", "price": "\uffe5151.61"}
+{"name": "M Train", "price": "\uffe5243.97"}
+{"name": "Lilac Girls", "price": "\uffe5155.11"}
+{"name": "Lies and Other Acts of Love", "price": "\uffe5405.18"}
+{"name": "Lab Girl", "price": "\uffe5366.67"}
+{"name": "Keep Me Posted", "price": "\uffe5183.65"}
+{"name": "It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle", "price": "\uffe5505.09"}
+{"name": "Grey (Fifty Shades #4)", "price": "\uffe5435.25"}
+{"name": "Exit, Pursued by a Bear", "price": "\uffe5460.83"}
+{"name": "Daredevils", "price": "\uffe5146.67"}
+{"name": "Cravings: Recipes for What You Want to Eat", "price": "\uffe5184.01"}
+{"name": "Born for This: How to Find the Work You Were Meant to Do", "price": "\uffe5193.79"}
+{"name": "Arena", "price": "\uffe5191.73"}
+{"name": "Adultery", "price": "\uffe5187.42"}
+{"name": "A Mother's Reckoning: Living in the Aftermath of Tragedy", "price": "\uffe5175.30"}
+{"name": "A Gentleman's Position (Society of Gentlemen #3)", "price": "\uffe5132.40"}
+{"name": "11/22/63", "price": "\uffe5435.16"}
+{"name": "10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works", "price": "\uffe5220.54"}
+{"name": "10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!", "price": "\uffe5446.20"}
+{"name": "Without Shame", "price": "\uffe5433.28"}
+{"name": "Watchmen", "price": "\uffe5521.06"}
+{"name": "Unlimited Intuition Now", "price": "\uffe5528.42"}
+{"name": "Underlying Notes", "price": "\uffe5106.10"}
+{"name": "The Shack", "price": "\uffe5251.60"}
+{"name": "The New Brand You: Your New Image Makes the Sale for You", "price": "\uffe5395.40"}
+{"name": "The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York", "price": "\uffe5110.77"}
+{"name": "The Flowers Lied", "price": "\uffe5149.72"}
+{"name": "The Fabric of the Cosmos: Space, Time, and the Texture of Reality", "price": "\uffe5501.85"}
+{"name": "The Book of Mormon", "price": "\uffe5220.54"}
+{"name": "The Art and Science of Low Carbohydrate Living", "price": "\uffe5475.55"}
+{"name": "The Alien Club", "price": "\uffe5488.30"}
+{"name": "Suzie Snowflake: One beautiful flake (a self-esteem story)", "price": "\uffe5491.98"}
+{"name": "Nap-a-Roo", "price": "\uffe5225.12"}
+{"name": "NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond", "price": "\uffe593.44"}
+{"name": "Modern Day Fables", "price": "\uffe5425.83"}
+{"name": "If I Gave You God's Phone Number....: Searching for Spirituality in America", "price": "\uffe5187.69"}
+{"name": "Fruits Basket, Vol. 9 (Fruits Basket #9)", "price": "\uffe5304.74"}
+{"name": "Dress Your Family in Corduroy and Denim", "price": "\uffe5392.08"}
+{"name": "Don't Forget Steven", "price": "\uffe5298.28"}
+{"name": "Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster", "price": "\uffe5322.42"}
+{"name": "Art and Fear: Observations on the Perils (and Rewards) of Artmaking", "price": "\uffe5436.51"}
+{"name": "A Shard of Ice (The Black Symphony Saga #1)", "price": "\uffe5508.32"}
+{"name": "A Hero's Curse (The Unseen Chronicles #1)", "price": "\uffe5453.20"}
+{"name": "23 Degrees South: A Tropical Tale of Changing Whether...", "price": "\uffe5321.25"}
+{"name": "Zero to One: Notes on Startups, or How to Build the Future", "price": "\uffe5305.73"}
+{"name": "Why Not Me?", "price": "\uffe5159.42"}
+{"name": "When Breath Becomes Air", "price": "\uffe5353.30"}
+{"name": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel", "price": "\uffe5331.58"}
+{"name": "The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)", "price": "\uffe5391.54"}
+{"name": "The New Drawing on the Right Side of the Brain", "price": "\uffe5386.15"}
+{"name": "The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer", "price": "\uffe5255.37"}
+{"name": "The Martian (The Martian #1)", "price": "\uffe5371.52"}
+{"name": "The High Mountains of Portugal", "price": "\uffe5459.13"}
+{"name": "The Grownup", "price": "\uffe5322.06"}
+{"name": "The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It", "price": "\uffe5331.31"}
+{"name": "South of Sunshine", "price": "\uffe5259.68"}
+{"name": "Smarter Faster Better: The Secrets of Being Productive in Life and Business", "price": "\uffe5349.08"}
+{"name": "Silence in the Dark (Logan Point #4)", "price": "\uffe5523.58"}
+{"name": "Shadows of the Past (Logan Point #1)", "price": "\uffe5356.08"}
+{"name": "Roller Girl", "price": "\uffe5126.56"}
+{"name": "Rising Strong", "price": "\uffe5195.86"}
+{"name": "Proofs of God: Classical Arguments from Tertullian to Barth", "price": "\uffe5486.59"}
+{"name": "Please Kill Me: The Uncensored Oral History of Punk", "price": "\uffe5279.96"}
+{"name": "Out of Print: City Lights Spotlight No. 14", "price": "\uffe5481.48"}
+{"name": "My Life Next Door (My Life Next Door )", "price": "\uffe5326.64"}
+{"name": "Miller's Valley", "price": "\uffe5525.46"}
+{"name": "Man's Search for Meaning", "price": "\uffe5264.62"}
+{"name": "Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations", "price": "\uffe5224.94"}
+{"name": "Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want", "price": "\uffe5112.65"}
+{"name": "Les Fleurs du Mal", "price": "\uffe5260.67"}
+{"name": "Left Behind (Left Behind #1)", "price": "\uffe5365.51"}
+{"name": "Kill 'Em and Leave: Searching for James Brown and the American Soul", "price": "\uffe5404.37"}
+{"name": "Kierkegaard: A Christian Missionary to Christians", "price": "\uffe5423.04"}
+{"name": "John Vassos: Industrial Design for Modern Life", "price": "\uffe5181.50"}
+{"name": "I'll Give You the Sun", "price": "\uffe5506.97"}
+{"name": "I Will Find You", "price": "\uffe5396.83"}
+{"name": "Hystopia: A Novel", "price": "\uffe5197.12"}
+{"name": "Howl and Other Poems", "price": "\uffe5363.08"}
+{"name": "History of Beauty", "price": "\uffe592.36"}
+{"name": "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back", "price": "\uffe5474.48"}
+{"name": "Future Shock (Future Shock #1)", "price": "\uffe5499.52"}
+{"name": "Ender's Game (The Ender Quintet #1)", "price": "\uffe5391.72"}
+{"name": "Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World", "price": "\uffe5255.01"}
+{"name": "Death by Leisure: A Cautionary Tale", "price": "\uffe5336.69"}
+{"name": "Brilliant Beacons: A History of the American Lighthouse", "price": "\uffe5102.78"}
+{"name": "Brazen: The Courage to Find the You That's Been Hiding", "price": "\uffe5172.52"}
+{"name": "Between the World and Me", "price": "\uffe5510.83"}
+{"name": "Being Mortal: Medicine and What Matters in the End", "price": "\uffe5494.22"}
+{"name": "A Murder Over a Girl: Justice, Gender, Junior High", "price": "\uffe5118.48"}
+{"name": "32 Yolks", "price": "\uffe5481.39"}
+{"name": "\"Most Blessed of the Patriarchs\": Thomas Jefferson and the Empire of the Imagination", "price": "\uffe5399.26"}
+{"name": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life", "price": "\uffe5108.43"}
+{"name": "Wildlife of New York: A Five-Borough Coloring Book", "price": "\uffe5198.73"}
+{"name": "What Happened on Beale Street (Secrets of the South Mysteries #2)", "price": "\uffe5227.72"}
+{"name": "Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain", "price": "\uffe5415.86"}
+{"name": "Under the Tuscan Sun", "price": "\uffe5335.08"}
+{"name": "Toddlers Are A**holes: It's Not Your Fault", "price": "\uffe5229.34"}
+{"name": "The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible", "price": "\uffe5311.65"}
+{"name": "The Whale", "price": "\uffe5322.78"}
+{"name": "The Story of Art", "price": "\uffe5369.28"}
+{"name": "The Origin of Species", "price": "\uffe589.85"}
+{"name": "The Great Gatsby", "price": "\uffe5323.59"}
+{"name": "The Good Girl", "price": "\uffe5440.10"}
+{"name": "The Glass Castle", "price": "\uffe5145.77"}
+{"name": "The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist", "price": "\uffe5355.00"}
+{"name": "The Drowning Girls", "price": "\uffe5320.18"}
+{"name": "The Constant Princess (The Tudor Court #1)", "price": "\uffe5149.18"}
+{"name": "The Bourne Identity (Jason Bourne #1)", "price": "\uffe5384.00"}
+{"name": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)", "price": "\uffe5469.45"}
+{"name": "The Art Book", "price": "\uffe5290.29"}
+{"name": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change", "price": "\uffe5297.74"}
+{"name": "Team of Rivals: The Political Genius of Abraham Lincoln", "price": "\uffe5180.60"}
+{"name": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative", "price": "\uffe5187.60"}
+{"name": "Sit, Stay, Love", "price": "\uffe5187.60"}
+{"name": "Sister Dear", "price": "\uffe5360.84"}
+{"name": "Shrunken Treasures: Literary Classics, Short, Sweet, and Silly", "price": "\uffe5474.57"}
+{"name": "Rich Dad, Poor Dad", "price": "\uffe5464.42"}
+{"name": "Raymie Nightingale", "price": "\uffe5308.87"}
+{"name": "Playing from the Heart", "price": "\uffe5290.65"}
+{"name": "Nightstruck: A Novel", "price": "\uffe5451.95"}
+{"name": "Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories", "price": "\uffe5102.15"}
+{"name": "Meternity", "price": "\uffe5391.18"}
+{"name": "Memoirs of a Geisha", "price": "\uffe5445.84"}
+{"name": "Like Never Before (Walker Family #2)", "price": "\uffe5258.24"}
+{"name": "Life of Pi", "price": "\uffe5118.66"}
+{"name": "Leave This Song Behind: Teen Poetry at Its Best", "price": "\uffe5459.31"}
+{"name": "King's Folly (The Kinsman Chronicles #1)", "price": "\uffe5355.54"}
+{"name": "John Adams", "price": "\uffe5515.50"}
+{"name": "How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything)", "price": "\uffe5412.99"}
+{"name": "How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking", "price": "\uffe5253.57"}
+{"name": "Good in Bed (Cannie Shapiro #1)", "price": "\uffe5332.56"}
+{"name": "Fruits Basket, Vol. 7 (Fruits Basket #7)", "price": "\uffe5175.66"}
+{"name": "For the Love: Fighting for Grace in a World of Impossible Standards", "price": "\uffe5405.09"}
+{"name": "Finding God in the Ruins: How God Redeems Pain", "price": "\uffe5418.65"}
+{"name": "Every Heart a Doorway (Every Heart A Doorway #1)", "price": "\uffe5109.15"}
+{"name": "Delivering the Truth (Quaker Midwife Mystery #1)", "price": "\uffe5187.51"}
+{"name": "Counted With the Stars (Out from Egypt #1)", "price": "\uffe5161.30"}
+{"name": "Chronicles, Vol. 1", "price": "\uffe5472.14"}
+{"name": "Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality", "price": "\uffe5231.31"}
+{"name": "Benjamin Franklin: An American Life", "price": "\uffe5432.56"}
+{"name": "At The Existentialist Caf\u00e9: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others", "price": "\uffe5268.65"}
+{"name": "A Summer In Europe", "price": "\uffe5398.00"}
+{"name": "A Short History of Nearly Everything", "price": "\uffe5470.35"}
+{"name": "A Gathering of Shadows (Shades of Magic #2)", "price": "\uffe5402.22"}
+{"name": "The Sound Of Love", "price": "\uffe5519.18"}
+{"name": "The Rise and Fall of the Third Reich: A History of Nazi Germany", "price": "\uffe5356.08"}
+{"name": "The Perks of Being a Wallflower", "price": "\uffe5493.87"}
+{"name": "The Mysterious Affair at Styles (Hercule Poirot #1)", "price": "\uffe5222.61"}
+{"name": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales", "price": "\uffe5533.63"}
+{"name": "The Makings of a Fatherless Child", "price": "\uffe5283.47"}
+{"name": "The Joy of Cooking", "price": "\uffe5388.40"}
+{"name": "The Invention of Wings", "price": "\uffe5335.17"}
+{"name": "The Hobbit (Middle-Earth Universe)", "price": "\uffe5159.77"}
+{"name": "The Great Railway Bazaar", "price": "\uffe5274.13"}
+{"name": "The Golden Compass (His Dark Materials #1)", "price": "\uffe5168.48"}
+{"name": "The God Delusion", "price": "\uffe5420.53"}
+{"name": "The Girl You Left Behind (The Girl You Left Behind #1)", "price": "\uffe5141.73"}
+{"name": "The Fellowship of the Ring (The Lord of the Rings #1)", "price": "\uffe592.18"}
+{"name": "The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)", "price": "\uffe5138.41"}
+{"name": "The Barefoot Contessa Cookbook", "price": "\uffe5537.85"}
+{"name": "Tell the Wolves I'm Home", "price": "\uffe5457.42"}
+{"name": "Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman", "price": "\uffe5274.67"}
+{"name": "Pride and Prejudice", "price": "\uffe5172.97"}
+{"name": "Musicophilia: Tales of Music and the Brain", "price": "\uffe5418.11"}
+{"name": "Mere Christianity", "price": "\uffe5435.43"}
+{"name": "Me Before You (Me Before You #1)", "price": "\uffe5170.73"}
+{"name": "In the Woods (Dublin Murder Squad #1)", "price": "\uffe5344.50"}
+{"name": "In Cold Blood", "price": "\uffe5448.63"}
+{"name": "How to Stop Worrying and Start Living", "price": "\uffe5417.30"}
+{"name": "Give It Back", "price": "\uffe5164.44"}
+{"name": "Girl, Interrupted", "price": "\uffe5378.25"}
+{"name": "Fun Home: A Family Tragicomic", "price": "\uffe5507.96"}
+{"name": "Fruits Basket, Vol. 6 (Fruits Basket #6)", "price": "\uffe5188.14"}
+{"name": "Deception Point", "price": "\uffe5361.92"}
+{"name": "Death Note, Vol. 6: Give-and-Take (Death Note #6)", "price": "\uffe5326.64"}
+{"name": "Catherine the Great: Portrait of a Woman", "price": "\uffe5525.55"}
+{"name": "Better Homes and Gardens New Cook Book", "price": "\uffe5355.54"}
+{"name": "An Unquiet Mind: A Memoir of Moods and Madness", "price": "\uffe5191.19"}
+{"name": "A Year in Provence (Provence #1)", "price": "\uffe5510.56"}
+{"name": "World Without End (The Pillars of the Earth #2)", "price": "\uffe5295.94"}
+{"name": "Will Grayson, Will Grayson (Will Grayson, Will Grayson)", "price": "\uffe5424.66"}
+{"name": "Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis", "price": "\uffe5436.87"}
+{"name": "Where She Went (If I Stay #2)", "price": "\uffe5374.57"}
+{"name": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions", "price": "\uffe5481.84"}
+{"name": "Two Summers", "price": "\uffe5131.41"}
+{"name": "This Is Your Brain on Music: The Science of a Human Obsession", "price": "\uffe5344.68"}
+{"name": "The Secret Garden", "price": "\uffe5135.36"}
+{"name": "The Raven King (The Raven Cycle #4)", "price": "\uffe5274.40"}
+{"name": "The Raven Boys (The Raven Cycle #1)", "price": "\uffe5518.28"}
+{"name": "The Power Greens Cookbook: 140 Delicious Superfood Recipes", "price": "\uffe599.19"}
+{"name": "The Metamorphosis", "price": "\uffe5256.54"}
+{"name": "The Mathews Men: Seven Brothers and the War Against Hitler's U-boats", "price": "\uffe5385.16"}
+{"name": "The Little Paris Bookshop", "price": "\uffe5221.98"}
+{"name": "The Hiding Place", "price": "\uffe5501.85"}
+{"name": "The Grand Design", "price": "\uffe5123.51"}
+{"name": "The Firm", "price": "\uffe5408.95"}
+{"name": "The Fault in Our Stars", "price": "\uffe5423.85"}
+{"name": "The False Prince (The Ascendance Trilogy #1)", "price": "\uffe5502.66"}
+{"name": "The Expatriates", "price": "\uffe5400.15"}
+{"name": "The Dream Thieves (The Raven Cycle #2)", "price": "\uffe5309.68"}
+{"name": "The Darkest Corners", "price": "\uffe5101.70"}
+{"name": "The Crossover", "price": "\uffe5348.00"}
+{"name": "The 5th Wave (The 5th Wave #1)", "price": "\uffe5106.19"}
+{"name": "Tell the Wind and Fire", "price": "\uffe5408.50"}
+{"name": "Tell Me Three Things", "price": "\uffe5375.29"}
+{"name": "Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut", "price": "\uffe5225.75"}
+{"name": "Siddhartha", "price": "\uffe5307.16"}
+{"name": "Shiver (The Wolves of Mercy Falls #1)", "price": "\uffe5145.68"}
+{"name": "Remember Me?", "price": "\uffe5103.05"}
+{"name": "Red Dragon (Hannibal Lecter #1)", "price": "\uffe5209.77"}
+{"name": "Peak: Secrets from the New Science of Expertise", "price": "\uffe5146.13"}
+{"name": "My Mother Was Nuts", "price": "\uffe5283.91"}
+{"name": "Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens", "price": "\uffe5223.59"}
+{"name": "Maybe Something Beautiful: How Art Transformed a Neighborhood", "price": "\uffe5202.32"}
+{"name": "Lola and the Boy Next Door (Anna and the French Kiss #2)", "price": "\uffe5212.11"}
+{"name": "Logan Kade (Fallen Crest High #5.5)", "price": "\uffe5117.77"}
+{"name": "Last One Home (New Beginnings #1)", "price": "\uffe5538.39"}
+{"name": "Killing Floor (Jack Reacher #1)", "price": "\uffe5282.66"}
+{"name": "Kill the Boy Band", "price": "\uffe5139.31"}
+{"name": "Isla and the Happily Ever After (Anna and the French Kiss #3)", "price": "\uffe5432.02"}
+{"name": "If I Stay (If I Stay #1)", "price": "\uffe5342.26"}
+{"name": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)", "price": "\uffe5328.08"}
+{"name": "Harry Potter and the Deathly Hallows (Harry Potter #7)", "price": "\uffe5209.32"}
+{"name": "Fruits Basket, Vol. 5 (Fruits Basket #5)", "price": "\uffe5146.58"}
+{"name": "Foundation (Foundation (Publication Order) #1)", "price": "\uffe5291.01"}
+{"name": "Fool Me Once", "price": "\uffe5152.23"}
+{"name": "Find Her (Detective D.D. Warren #8)", "price": "\uffe5200.80"}
+{"name": "Evicted: Poverty and Profit in the American City", "price": "\uffe5379.42"}
+{"name": "Drama", "price": "\uffe5347.38"}
+{"name": "Dracula the Un-Dead", "price": "\uffe5319.82"}
+{"name": "Digital Fortress", "price": "\uffe5520.61"}
+{"name": "Death Note, Vol. 5: Whiteout (Death Note #5)", "price": "\uffe5470.44"}
+{"name": "Data, A Love Story: How I Gamed Online Dating to Meet My Match", "price": "\uffe5290.38"}
+{"name": "Critique of Pure Reason", "price": "\uffe5186.25"}
+{"name": "Booked", "price": "\uffe5156.99"}
+{"name": "Blue Lily, Lily Blue (The Raven Cycle #3)", "price": "\uffe5306.35"}
+{"name": "Approval Junkie: Adventures in Caring Too Much", "price": "\uffe5527.88"}
+{"name": "An Abundance of Katherines", "price": "\uffe589.76"}
+{"name": "America's War for the Greater Middle East: A Military History", "price": "\uffe5459.76"}
+{"name": "Alight (The Generations Trilogy #2)", "price": "\uffe5525.91"}
+{"name": "A Girl's Guide to Moving On (New Beginnings #2)", "price": "\uffe5280.95"}
+{"name": "A Game of Thrones (A Song of Ice and Fire #1)", "price": "\uffe5416.67"}
+{"name": "A Feast for Crows (A Song of Ice and Fire #4)", "price": "\uffe5154.48"}
+{"name": "A Clash of Kings (A Song of Ice and Fire #2)", "price": "\uffe596.85"}
+{"name": "Vogue Colors A to Z: A Fashion Coloring Book", "price": "\uffe5469.90"}
+{"name": "The Shining (The Shining #1)", "price": "\uffe5250.25"}
+{"name": "The Pilgrim's Progress", "price": "\uffe5451.14"}
+{"name": "The Perfect Play (Play by Play #1)", "price": "\uffe5538.48"}
+{"name": "The Passion of Dolssa", "price": "\uffe5254.20"}
+{"name": "The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe", "price": "\uffe5347.46"}
+{"name": "The Hunger Games (The Hunger Games #1)", "price": "\uffe5267.94"}
+{"name": "The Hound of the Baskervilles (Sherlock Holmes #5)", "price": "\uffe5133.03"}
+{"name": "The Gunning of America: Business and the Making of American Gun Culture", "price": "\uffe5150.89"}
+{"name": "The Geography of Bliss: One Grump's Search for the Happiest Places in the World", "price": "\uffe5253.40"}
+{"name": "The Demonists (Demonist #1)", "price": "\uffe5467.74"}
+{"name": "The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)", "price": "\uffe5250.25"}
+{"name": "The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)", "price": "\uffe5535.96"}
+{"name": "The Beast (Black Dagger Brotherhood #14)", "price": "\uffe5413.62"}
+{"name": "Some Women", "price": "\uffe5123.24"}
+{"name": "Shopaholic Ties the Knot (Shopaholic #3)", "price": "\uffe5434.35"}
+{"name": "Paper and Fire (The Great Library #2)", "price": "\uffe5443.87"}
+{"name": "Outlander (Outlander #1)", "price": "\uffe5176.56"}
+{"name": "Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors", "price": "\uffe5110.94"}
+{"name": "No One Here Gets Out Alive", "price": "\uffe5179.70"}
+{"name": "Night Shift (Night Shift #1-20)", "price": "\uffe5114.45"}
+{"name": "Needful Things", "price": "\uffe5426.45"}
+{"name": "Mockingjay (The Hunger Games #3)", "price": "\uffe5183.47"}
+{"name": "Misery", "price": "\uffe5312.28"}
+{"name": "Little Women (Little Women #1)", "price": "\uffe5251.96"}
+{"name": "It", "price": "\uffe5224.49"}
+{"name": "Harry Potter and the Sorcerer's Stone (Harry Potter #1)", "price": "\uffe5124.77"}
+{"name": "Harry Potter and the Prisoner of Azkaban (Harry Potter #3)", "price": "\uffe5216.95"}
+{"name": "Harry Potter and the Order of the Phoenix (Harry Potter #5)", "price": "\uffe5283.91"}
+{"name": "Harry Potter and the Half-Blood Prince (Harry Potter #6)", "price": "\uffe5437.58"}
+{"name": "Harry Potter and the Chamber of Secrets (Harry Potter #2)", "price": "\uffe5132.31"}
+{"name": "Gone with the Wind", "price": "\uffe5291.63"}
+{"name": "God Is Not Great: How Religion Poisons Everything", "price": "\uffe5249.54"}
+{"name": "Girl With a Pearl Earring", "price": "\uffe5240.29"}
+{"name": "Fruits Basket, Vol. 4 (Fruits Basket #4)", "price": "\uffe5452.75"}
+{"name": "Far From True (Promise Falls Trilogy #2)", "price": "\uffe5313.54"}
+{"name": "Dark Lover (Black Dagger Brotherhood #1)", "price": "\uffe5115.52"}
+{"name": "Confessions of a Shopaholic (Shopaholic #1)", "price": "\uffe5439.29"}
+{"name": "Changing the Game (Play by Play #2)", "price": "\uffe5120.10"}
+{"name": "Candide", "price": "\uffe5526.27"}
+{"name": "Can You Keep a Secret?", "price": "\uffe5196.94"}
+{"name": "Atlas Shrugged", "price": "\uffe5238.58"}
+{"name": "Animal Farm", "price": "\uffe5513.61"}
+{"name": "A Walk to Remember", "price": "\uffe5506.52"}
+{"name": "A New Earth: Awakening to Your Life's Purpose", "price": "\uffe5499.52"}
+{"name": "A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam", "price": "\uffe5247.92"}
+{"name": "'Salem's Lot", "price": "\uffe5444.86"}
+{"name": "Zero History (Blue Ant #3)", "price": "\uffe5312.10"}
+{"name": "Wuthering Heights", "price": "\uffe5159.15"}
+{"name": "World War Z: An Oral History of the Zombie War", "price": "\uffe5195.68"}
+{"name": "Wild: From Lost to Found on the Pacific Crest Trail", "price": "\uffe5413.08"}
+{"name": "Where'd You Go, Bernadette", "price": "\uffe5162.74"}
+{"name": "When You Are Engulfed in Flames", "price": "\uffe5277.27"}
+{"name": "We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America", "price": "\uffe5286.79"}
+{"name": "We Are All Completely Beside Ourselves", "price": "\uffe5215.79"}
+{"name": "Walk the Edge (Thunder Road #2)", "price": "\uffe5290.47"}
+{"name": "Voyager (Outlander #3)", "price": "\uffe5189.13"}
+{"name": "Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination", "price": "\uffe5454.73"}
+{"name": "Vegan Vegetarian Omnivore: Dinner for Everyone at the Table", "price": "\uffe5122.61"}
+{"name": "Unstuffed: Decluttering Your Home, Mind, and Soul", "price": "\uffe5521.42"}
+{"name": "Under the Banner of Heaven: A Story of Violent Faith", "price": "\uffe5269.28"}
+{"name": "Two Boys Kissing", "price": "\uffe5293.88"}
+{"name": "Twilight (Twilight #1)", "price": "\uffe5376.37"}
+{"name": "Twenties Girl", "price": "\uffe5384.18"}
+{"name": "Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland", "price": "\uffe5480.31"}
+{"name": "Three-Martini Lunch", "price": "\uffe5208.34"}
+{"name": "Thinking, Fast and Slow", "price": "\uffe5189.75"}
+{"name": "The Wild Robot", "price": "\uffe5503.29"}
+{"name": "The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)", "price": "\uffe5129.35"}
+{"name": "The Undomestic Goddess", "price": "\uffe5410.66"}
+{"name": "The Travelers", "price": "\uffe5141.55"}
+{"name": "The Tipping Point: How Little Things Can Make a Big Difference", "price": "\uffe589.94"}
+{"name": "The Thing About Jellyfish", "price": "\uffe5437.76"}
+{"name": "The Stand", "price": "\uffe5519.36"}
+{"name": "The Smitten Kitchen Cookbook", "price": "\uffe5211.75"}
+{"name": "The Silkworm (Cormoran Strike #2)", "price": "\uffe5206.90"}
+{"name": "The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)", "price": "\uffe5498.62"}
+{"name": "The Rose & the Dagger (The Wrath and the Dawn #2)", "price": "\uffe5526.36"}
+{"name": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)", "price": "\uffe5208.34"}
+{"name": "The Rise of Theodore Roosevelt (Theodore Roosevelt #1)", "price": "\uffe5382.11"}
+{"name": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)", "price": "\uffe598.02"}
+{"name": "The Rest Is Noise: Listening to the Twentieth Century", "price": "\uffe5312.10"}
+{"name": "The Red Tent", "price": "\uffe5320.09"}
+{"name": "The Purpose Driven Life: What on Earth Am I Here for?", "price": "\uffe5333.82"}
+{"name": "The Purest Hook (Second Circle Tattoos #3)", "price": "\uffe5109.96"}
+{"name": "The Picture of Dorian Gray", "price": "\uffe5266.59"}
+{"name": "The Paris Wife", "price": "\uffe5330.32"}
+{"name": "The Obsession", "price": "\uffe5407.78"}
+{"name": "The Nightingale", "price": "\uffe5235.71"}
+{"name": "The New Guy (and Other Senior Year Distractions)", "price": "\uffe5403.21"}
+{"name": "The Nanny Diaries (Nanny #1)", "price": "\uffe5471.51"}
+{"name": "The Name of God is Mercy", "price": "\uffe5334.36"}
+{"name": "The Maze Runner (The Maze Runner #1)", "price": "\uffe5187.87"}
+{"name": "The Lover's Dictionary", "price": "\uffe5521.42"}
+{"name": "The Lonely Ones", "price": "\uffe5391.27"}
+{"name": "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses", "price": "\uffe5304.47"}
+{"name": "The Last Painting of Sara de Vos", "price": "\uffe5498.62"}
+{"name": "The Land of 10,000 Madonnas", "price": "\uffe5266.05"}
+{"name": "The Infinities", "price": "\uffe5246.03"}
+{"name": "The Husband's Secret", "price": "\uffe5471.34"}
+{"name": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1)", "price": "\uffe5429.06"}
+{"name": "The Guns of August", "price": "\uffe5130.51"}
+{"name": "The Guernsey Literary and Potato Peel Pie Society", "price": "\uffe5444.59"}
+{"name": "The Goldfinch", "price": "\uffe5391.18"}
+{"name": "The Giver (The Giver Quartet #1)", "price": "\uffe5110.41"}
+{"name": "The Girl with All the Gifts", "price": "\uffe5444.05"}
+{"name": "The Girl Who Played with Fire (Millennium Trilogy #2)", "price": "\uffe5198.73"}
+{"name": "The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)", "price": "\uffe5515.95"}
+{"name": "The Exiled", "price": "\uffe5390.01"}
+{"name": "The End of Faith: Religion, Terror, and the Future of Reason", "price": "\uffe5198.64"}
+{"name": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory", "price": "\uffe5116.96"}
+{"name": "The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements", "price": "\uffe5514.78"}
+{"name": "The Devil Wears Prada (The Devil Wears Prada #1)", "price": "\uffe5397.55"}
+{"name": "The Demon-Haunted World: Science as a Candle in the Dark", "price": "\uffe5469.00"}
+{"name": "The Day the Crayons Came Home (Crayons)", "price": "\uffe5236.34"}
+{"name": "The Da Vinci Code (Robert Langdon #2)", "price": "\uffe5206.09"}
+{"name": "The Cuckoo's Calling (Cormoran Strike #1)", "price": "\uffe5172.43"}
+{"name": "The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])", "price": "\uffe5240.38"}
+{"name": "The Complete Poems", "price": "\uffe5370.89"}
+{"name": "The Catcher in the Rye", "price": "\uffe5220.36"}
+{"name": "The Cat in the Hat (Beginner Books B-1)", "price": "\uffe5145.95"}
+{"name": "The Case for Christ (Cases for Christianity)", "price": "\uffe5429.42"}
+{"name": "The Book Thief", "price": "\uffe5480.13"}
+{"name": "The Book of Basketball: The NBA According to The Sports Guy", "price": "\uffe5402.49"}
+{"name": "The Blind Side: Evolution of a Game", "price": "\uffe5482.11"}
+{"name": "The Autobiography of Malcolm X", "price": "\uffe5210.31"}
+{"name": "The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution", "price": "\uffe5308.06"}
+{"name": "The Art of Fielding", "price": "\uffe5198.37"}
+{"name": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character", "price": "\uffe5231.85"}
+{"name": "Stiff: The Curious Lives of Human Cadavers", "price": "\uffe5329.78"}
+{"name": "Spilled Milk: Based on a True Story", "price": "\uffe5444.41"}
+{"name": "Something Borrowed (Darcy & Rachel #1)", "price": "\uffe5439.47"}
+{"name": "Something Blue (Darcy & Rachel #2)", "price": "\uffe5490.27"}
+{"name": "Soldier (Talon #3)", "price": "\uffe5221.89"}
+{"name": "Shopaholic & Baby (Shopaholic #5)", "price": "\uffe5416.94"}
+{"name": "Seven Days in the Art World", "price": "\uffe5469.72"}
+{"name": "Seven Brief Lessons on Physics", "price": "\uffe5274.67"}
+{"name": "Scarlet (The Lunar Chronicles #2)", "price": "\uffe5130.78"}
+{"name": "Sarah's Key", "price": "\uffe5415.50"}
+{"name": "Saga, Volume 3 (Saga (Collected Editions) #3)", "price": "\uffe5193.61"}
+{"name": "Running with Scissors", "price": "\uffe5115.88"}
+{"name": "Rogue Lawyer (Rogue Lawyer #1)", "price": "\uffe5449.79"}
+{"name": "Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars", "price": "\uffe5374.03"}
+{"name": "Rework", "price": "\uffe5402.85"}
+{"name": "Reservations for Two", "price": "\uffe599.63"}
+{"name": "Red: The True Story of Red Riding Hood", "price": "\uffe5256.18"}
+{"name": "Ready Player One", "price": "\uffe5171.17"}
+{"name": "Quiet: The Power of Introverts in a World That Can't Stop Talking", "price": "\uffe5390.91"}
+{"name": "Prodigy: The Graphic Novel (Legend: The Graphic Novel #2)", "price": "\uffe5391.63"}
+{"name": "Persepolis: The Story of a Childhood (Persepolis #1-2)", "price": "\uffe5351.23"}
+{"name": "Packing for Mars: The Curious Science of Life in the Void", "price": "\uffe5508.77"}
+{"name": "Outliers: The Story of Success", "price": "\uffe5127.10"}
+{"name": "Original Fake", "price": "\uffe5282.30"}
+{"name": "Orange Is the New Black", "price": "\uffe5220.90"}
+{"name": "One for the Money (Stephanie Plum #1)", "price": "\uffe5295.04"}
+{"name": "Notes from a Small Island (Notes From a Small Island #1)", "price": "\uffe5360.57"}
+{"name": "Night (The Night Trilogy #1)", "price": "\uffe5121.27"}
+{"name": "Neither Here nor There: Travels in Europe", "price": "\uffe5349.62"}
+{"name": "Naked", "price": "\uffe5284.45"}
+{"name": "Morning Star (Red Rising #3)", "price": "\uffe5263.90"}
+{"name": "Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing", "price": "\uffe5519.09"}
+{"name": "Midnight Riot (Peter Grant/ Rivers of London - books #1)", "price": "\uffe5497.81"}
+{"name": "Me Talk Pretty One Day", "price": "\uffe5517.02"}
+{"name": "Manuscript Found in Accra", "price": "\uffe5313.98"}
+{"name": "Lust & Wonder", "price": "\uffe5106.55"}
+{"name": "Lila (Gilead #3)", "price": "\uffe5111.93"}
+{"name": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)", "price": "\uffe5298.55"}
+{"name": "Life Without a Recipe", "price": "\uffe5529.95"}
+{"name": "Life After Life", "price": "\uffe5234.55"}
+{"name": "Letter to a Christian Nation", "price": "\uffe5199.27"}
+{"name": "Let's Pretend This Never Happened: A Mostly True Memoir", "price": "\uffe5404.91"}
+{"name": "Legend (Legend #1)", "price": "\uffe5392.17"}
+{"name": "Lean In: Women, Work, and the Will to Lead", "price": "\uffe5224.58"}
+{"name": "Lamb: The Gospel According to Biff, Christ's Childhood Pal", "price": "\uffe5498.17"}
+{"name": "Lady Renegades (Rebel Belle #3)", "price": "\uffe5476.09"}
+{"name": "Jurassic Park (Jurassic Park #1)", "price": "\uffe5403.66"}
+{"name": "It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond", "price": "\uffe5380.41"}
+{"name": "Is Everyone Hanging Out Without Me? (And Other Concerns)", "price": "\uffe5180.51"}
+{"name": "Into the Wild", "price": "\uffe5508.94"}
+{"name": "Inferno (Robert Langdon #4)", "price": "\uffe5368.02"}
+{"name": "In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin", "price": "\uffe5258.96"}
+{"name": "If I Run (If I Run #1)", "price": "\uffe5448.54"}
+{"name": "I've Got Your Number", "price": "\uffe5176.74"}
+{"name": "I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban", "price": "\uffe5259.23"}
+{"name": "Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World", "price": "\uffe5297.47"}
+{"name": "House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth", "price": "\uffe5392.26"}
+{"name": "House of Leaves", "price": "\uffe5492.70"}
+{"name": "Horrible Bear!", "price": "\uffe5336.78"}
+{"name": "Holidays on Ice", "price": "\uffe5458.41"}
+{"name": "Heir to the Sky", "price": "\uffe5395.58"}
+{"name": "Green Eggs and Ham (Beginner Books B-16)", "price": "\uffe596.85"}
+{"name": "Grayson, Vol 3: Nemesis (Grayson #3)", "price": "\uffe5383.46"}
+{"name": "Gratitude", "price": "\uffe5239.30"}
+{"name": "Gone Girl", "price": "\uffe5337.50"}
+{"name": "Golden (Heart of Dread #3)", "price": "\uffe5378.88"}
+{"name": "Girl in the Blue Coat", "price": "\uffe5420.35"}
+{"name": "Fruits Basket, Vol. 3 (Fruits Basket #3)", "price": "\uffe5405.45"}
+{"name": "Friday Night Lights: A Town, a Team, and a Dream", "price": "\uffe5459.76"}
+{"name": "Fire Bound (Sea Haven/Sisters of the Heart #5)", "price": "\uffe5191.01"}
+{"name": "Fifty Shades Freed (Fifty Shades #3)", "price": "\uffe5137.87"}
+{"name": "Fellside", "price": "\uffe5346.66"}
+{"name": "Extreme Prey (Lucas Davenport #26)", "price": "\uffe5227.99"}
+{"name": "Eragon (The Inheritance Cycle #1)", "price": "\uffe5393.78"}
+{"name": "Eclipse (Twilight #3)", "price": "\uffe5168.21"}
+{"name": "Dune (Dune #1)", "price": "\uffe5492.43"}
+{"name": "Dracula", "price": "\uffe5472.32"}
+{"name": "Do Androids Dream of Electric Sheep? (Blade Runner #1)", "price": "\uffe5462.09"}
+{"name": "Disrupted: My Misadventure in the Start-Up Bubble", "price": "\uffe5137.15"}
+{"name": "Dead Wake: The Last Crossing of the Lusitania", "price": "\uffe5352.22"}
+{"name": "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants", "price": "\uffe5159.86"}
+{"name": "Darkfever (Fever #1)", "price": "\uffe5502.84"}
+{"name": "Dark Places", "price": "\uffe5214.53"}
+{"name": "Crazy Rich Asians (Crazy Rich Asians #1)", "price": "\uffe5441.00"}
+{"name": "Counting Thyme", "price": "\uffe595.33"}
+{"name": "Cosmos", "price": "\uffe5324.67"}
+{"name": "Civilization and Its Discontents", "price": "\uffe5538.12"}
+{"name": "Cinder (The Lunar Chronicles #1)", "price": "\uffe5234.19"}
+{"name": "Catastrophic Happiness: Finding Joy in Childhood's Messy Years", "price": "\uffe5335.26"}
+{"name": "Career of Evil (Cormoran Strike #3)", "price": "\uffe5221.89"}
+{"name": "Breaking Dawn (Twilight #4)", "price": "\uffe5316.68"}
+{"name": "Brave Enough", "price": "\uffe5460.65"}
+{"name": "Boy Meets Boy", "price": "\uffe5189.58"}
+{"name": "Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen", "price": "\uffe5245.50"}
+{"name": "Blink: The Power of Thinking Without Thinking", "price": "\uffe5195.14"}
+{"name": "Black Flags: The Rise of ISIS", "price": "\uffe5366.85"}
+{"name": "Black Butler, Vol. 1 (Black Butler #1)", "price": "\uffe5442.61"}
+{"name": "Big Little Lies", "price": "\uffe5198.46"}
+{"name": "Between Shades of Gray", "price": "\uffe5186.61"}
+{"name": "Best of My Love (Fool's Gold #20)", "price": "\uffe5246.03"}
+{"name": "Beowulf", "price": "\uffe5344.23"}
+{"name": "Beautiful Creatures (Caster Chronicles #1)", "price": "\uffe5193.43"}
+{"name": "Awkward", "price": "\uffe5341.27"}
+{"name": "Ash", "price": "\uffe5198.01"}
+{"name": "Are We There Yet?", "price": "\uffe595.69"}
+{"name": "Are We Smart Enough to Know How Smart Animals Are?", "price": "\uffe5507.87"}
+{"name": "Annie on My Mind", "price": "\uffe5330.59"}
+{"name": "And Then There Were None", "price": "\uffe5314.25"}
+{"name": "A Walk in the Woods: Rediscovering America on the Appalachian Trail", "price": "\uffe5273.59"}
+{"name": "A Visit from the Goon Squad", "price": "\uffe5126.38"}
+{"name": "A Storm of Swords (A Song of Ice and Fire #3)", "price": "\uffe5280.23"}
+{"name": "A Heartbreaking Work of Staggering Genius", "price": "\uffe5487.31"}
+{"name": "8 Keys to Mental Health Through Exercise", "price": "\uffe5278.62"}
+{"name": "#GIRLBOSS", "price": "\uffe5457.42"}
+{"name": "The Suffragettes (Little Black Classics, #96)", "price": "\uffe5106.73"}
+{"name": "The Sense of an Ending", "price": "\uffe5281.67"}
+{"name": "The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)", "price": "\uffe5491.98"}
+{"name": "The Course of Love", "price": "\uffe5150.62"}
+{"name": "Sugar Rush (Offensive Line #2)", "price": "\uffe5219.20"}
+{"name": "Saga, Volume 2 (Saga (Collected Editions) #2)", "price": "\uffe5105.47"}
+{"name": "Run, Spot, Run: The Ethics of Keeping Pets", "price": "\uffe5179.70"}
+{"name": "New Moon (Twilight #2)", "price": "\uffe5115.43"}
+{"name": "Life", "price": "\uffe5283.47"}
+{"name": "Kindle Paperwhite User's Guide", "price": "\uffe5305.19"}
+{"name": "H is for Hawk", "price": "\uffe5515.41"}
+{"name": "Girl Online On Tour (Girl Online #2)", "price": "\uffe5479.95"}
+{"name": "Fruits Basket, Vol. 2 (Fruits Basket #2)", "price": "\uffe5104.48"}
+{"name": "Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book)", "price": "\uffe5474.66"}
+{"name": "Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)", "price": "\uffe5166.15"}
+{"name": "While You Were Mine", "price": "\uffe5370.89"}
+{"name": "Where Lightning Strikes (Bleeding Stars #3)", "price": "\uffe5356.98"}
+{"name": "When I'm Gone", "price": "\uffe5466.40"}
+{"name": "Ways of Seeing", "price": "\uffe5354.65"}
+{"name": "Vampire Knight, Vol. 1 (Vampire Knight #1)", "price": "\uffe5138.23"}
+{"name": "Vampire Girl (Vampire Girl #1)", "price": "\uffe5483.09"}
+{"name": "Twenty Love Poems and a Song of Despair", "price": "\uffe5277.81"}
+{"name": "Travels with Charley: In Search of America", "price": "\uffe5519.00"}
+{"name": "Three Wishes (River of Time: California #1)", "price": "\uffe5396.56"}
+{"name": "This One Moment (Pushing Limits #1)", "price": "\uffe5437.23"}
+{"name": "The Zombie Room", "price": "\uffe5176.74"}
+{"name": "The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)", "price": "\uffe5327.81"}
+{"name": "The Tumor", "price": "\uffe5373.05"}
+{"name": "The Story of Hong Gildong", "price": "\uffe5387.68"}
+{"name": "The Silent Wife", "price": "\uffe5110.77"}
+{"name": "The Silent Twin (Detective Jennifer Knight #3)", "price": "\uffe5325.38"}
+{"name": "The Selfish Gene", "price": "\uffe5264.35"}
+{"name": "The Secret Healer", "price": "\uffe5310.21"}
+{"name": "The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)", "price": "\uffe5485.79"}
+{"name": "The Republic", "price": "\uffe5303.21"}
+{"name": "The Odyssey", "price": "\uffe5266.05"}
+{"name": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)", "price": "\uffe5517.92"}
+{"name": "The Nicomachean Ethics", "price": "\uffe5326.19"}
+{"name": "The Name of the Wind (The Kingkiller Chronicle #1)", "price": "\uffe5454.10"}
+{"name": "The Mirror & the Maze (The Wrath and the Dawn #1.5)", "price": "\uffe5263.72"}
+{"name": "The Little Prince", "price": "\uffe5407.69"}
+{"name": "The Light of the Fireflies", "price": "\uffe5488.57"}
+{"name": "The Last Girl (The Dominion Trilogy #1)", "price": "\uffe5325.47"}
+{"name": "The Iliad", "price": "\uffe5145.05"}
+{"name": "The Hook Up (Game On #1)", "price": "\uffe5325.74"}
+{"name": "The Haters", "price": "\uffe5250.34"}
+{"name": "The Girl You Lost", "price": "\uffe5110.32"}
+{"name": "The Girl In The Ice (DCI Erika Foster #1)", "price": "\uffe5142.27"}
+{"name": "The End of the Jesus Era (An Investigation #1)", "price": "\uffe5129.26"}
+{"name": "The Edge of Reason (Bridget Jones #2)", "price": "\uffe5172.16"}
+{"name": "The Complete Maus (Maus #1-2)", "price": "\uffe595.51"}
+{"name": "The Communist Manifesto", "price": "\uffe5132.49"}
+{"name": "The Bhagavad Gita", "price": "\uffe5516.04"}
+{"name": "The Bette Davis Club", "price": "\uffe5275.21"}
+{"name": "The Art of Not Breathing", "price": "\uffe5366.49"}
+{"name": "Taking Shots (Assassins #1)", "price": "\uffe5169.47"}
+{"name": "Starlark", "price": "\uffe5231.85"}
+{"name": "Skip Beat!, Vol. 01 (Skip Beat! #1)", "price": "\uffe5378.07"}
+{"name": "Sister Sable (The Mad Queen #1)", "price": "\uffe5119.65"}
+{"name": "Shatter Me (Shatter Me #1)", "price": "\uffe5380.59"}
+{"name": "Shameless", "price": "\uffe5523.76"}
+{"name": "Shadow Rites (Jane Yellowrock #10)", "price": "\uffe5194.96"}
+{"name": "Settling the Score (The Summer Games #1)", "price": "\uffe5403.12"}
+{"name": "Sense and Sensibility", "price": "\uffe5336.24"}
+{"name": "Saga, Volume 1 (Saga (Collected Editions) #1)", "price": "\uffe5255.64"}
+{"name": "Rhythm, Chord & Malykhin", "price": "\uffe5254.38"}
+{"name": "Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)", "price": "\uffe5421.52"}
+{"name": "Paradise Lost (Paradise #1)", "price": "\uffe5224.04"}
+{"name": "Paper Girls, Vol. 1 (Paper Girls #1-5)", "price": "\uffe5194.87"}
+{"name": "Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)", "price": "\uffe5268.12"}
+{"name": "Origins (Alphas 0.5)", "price": "\uffe5260.22"}
+{"name": "One Second (Seven #7)", "price": "\uffe5475.19"}
+{"name": "On the Road (Duluoz Legend)", "price": "\uffe5290.47"}
+{"name": "Old Records Never Die: One Man's Quest for His Vinyl and His Past", "price": "\uffe5499.61"}
+{"name": "Off Sides (Off #1)", "price": "\uffe5354.11"}
+{"name": "Of Mice and Men", "price": "\uffe5422.86"}
+{"name": "Myriad (Prentor #1)", "price": "\uffe5527.35"}
+{"name": "My Perfect Mistake (Over the Top #1)", "price": "\uffe5349.35"}
+{"name": "Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)", "price": "\uffe5353.57"}
+{"name": "Meditations", "price": "\uffe5232.39"}
+{"name": "Matilda", "price": "\uffe5254.38"}
+{"name": "Lost Among the Living", "price": "\uffe5248.64"}
+{"name": "Lord of the Flies", "price": "\uffe5223.42"}
+{"name": "Listen to Me (Fusion #1)", "price": "\uffe5529.50"}
+{"name": "Kitchens of the Great Midwest", "price": "\uffe5513.43"}
+{"name": "Jane Eyre", "price": "\uffe5344.95"}
+{"name": "Imperfect Harmony", "price": "\uffe5311.83"}
+{"name": "Icing (Aces Hockey #2)", "price": "\uffe5362.99"}
+{"name": "Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)", "price": "\uffe5406.08"}
+{"name": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)", "price": "\uffe5313.80"}
+{"name": "Giant Days, Vol. 1 (Giant Days #1-4)", "price": "\uffe5509.48"}
+{"name": "Fruits Basket, Vol. 1 (Fruits Basket #1)", "price": "\uffe5361.56"}
+{"name": "Frankenstein", "price": "\uffe5341.09"}
+{"name": "Forever Rockers (The Rocker #12)", "price": "\uffe5258.51"}
+{"name": "Fighting Fate (Fighting #6)", "price": "\uffe5352.22"}
+{"name": "Emma", "price": "\uffe5295.58"}
+{"name": "Eat, Pray, Love", "price": "\uffe5460.65"}
+{"name": "Deep Under (Walker Security #1)", "price": "\uffe5422.68"}
+{"name": "Choosing Our Religion: The Spiritual Lives of America's Nones", "price": "\uffe5255.10"}
+{"name": "Charlie and the Chocolate Factory (Charlie Bucket #1)", "price": "\uffe5205.10"}
+{"name": "Charity's Cross (Charles Towne Belles #4)", "price": "\uffe5370.17"}
+{"name": "Bright Lines", "price": "\uffe5350.70"}
+{"name": "Bridget Jones's Diary (Bridget Jones #1)", "price": "\uffe5267.67"}
+{"name": "Bounty (Colorado Mountain #7)", "price": "\uffe5334.45"}
+{"name": "Blood Defense (Samantha Brinkman #1)", "price": "\uffe5182.21"}
+{"name": "Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)", "price": "\uffe5311.02"}
+{"name": "Beyond Good and Evil", "price": "\uffe5389.38"}
+{"name": "Alice in Wonderland (Alice's Adventures in Wonderland #1)", "price": "\uffe5498.44"}
+{"name": "Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)", "price": "\uffe5512.18"}
+{"name": "A Spy's Devotion (The Regency Spies of London #1)", "price": "\uffe5152.32"}
+{"name": "1st to Die (Women's Murder Club #1)", "price": "\uffe5484.53"}
+{"name": "1,000 Places to See Before You Die", "price": "\uffe5234.10"}
